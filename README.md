@@ -66,9 +66,9 @@ Before you begin, make sure you have the following installed:
 #### On Windows:
 
 - **Run the script using the batch file**:
-  - Use the `Executethescript.bat` file to start the application:
+  - Use the `EseguiScript.bat` file to start the application:
     ```
-    Executethescript.bat
+    EseguiScript.bat
     ```
 
 #### On macOS/Linux:
