@@ -4,6 +4,11 @@ This project allows you to scrape websites and analyze their content using Ollam
 
 If you prefer the Italian version of this project, you can find it [here](https://github.com/dddevid/AI-Web-Scraper-Ollama/tree/Italian).
 
+### Demo
+
+You can try out the demo of the AI Web Scraper at the following link:  
+[AI Web Scraper Demo](https://ai-web-scraper-ollama.streamlit.app/)
+
 ## Prerequisites
 
 Before you begin, make sure you have the following installed:
