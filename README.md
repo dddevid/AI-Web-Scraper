@@ -68,7 +68,7 @@ Before you begin, make sure you have the following installed:
 - **Run the script using the batch file**:
   - Use the `EseguiScript.bat` file to start the application:
     ```
-    EseguiScript.bat
+    \EseguiScript.bat
     ```
 
 #### On macOS/Linux:
